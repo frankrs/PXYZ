@@ -96,11 +96,12 @@
 					rel         : 0,
 					hd          : 1,
 					wmode       : 'opaque',
-					enablejsapi : 1
+					enablejsapi : 1,
 				},
 				type : 'iframe',
-				url  : '//www.youtube.com/embed/$3'
+				url  : '//www.youtube.com/embed/$3'	
 			},
+			
 			vimeo : {
 				matcher : /(?:vimeo(?:pro)?.com)\/(?:[^\d]+)?(\d+)(?:.*)/,
 				params  : {
