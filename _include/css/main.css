@@ -505,9 +505,9 @@ header #logo {
 }
 
 header #logo a {
-	background: url(../img/logo.png) no-repeat;
-	width: 96px;
-	height: 30px;
+	background: url(../img/PixelXYZLogo.png) no-repeat;
+	width: 310px;
+	height: 64px;
 	text-indent: -9999px;
 	display: block;
 	opacity: 1;
