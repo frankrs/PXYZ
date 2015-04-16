@@ -77,10 +77,10 @@ BRUSHED.slider = function(){
 		thumb_links				:	0,			// Individual thumb links for each slide
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
-											{image : '_include/img/slider-images/TCS_Banner.jpg', title : '<div class="slide-content">Pixel XYZ</div>', thumb : '', url : ''},
-											{image : '_include/img/slider-images/HMD_BannerTitle.png', title : '<div class="slide-content">Pixel XYZ</div>', thumb : '', url : ''},
-											{image : '_include/img/slider-images/gg banner.png', title : '<div class="slide-content">Pixel XYZ</div>', thumb : '', url : ''},
-											{image : '_include/img/slider-images/IC_Banner.png', title : '<div class="slide-content">Pixel XYZ</div>', thumb : '', url : ''},
+											{image : '_include/img/slider-images/CityStoplightSim_Banner.jpg', title : '<div class="slide-content">Pixel XYZ</div>', thumb : '', url : ''},
+											{image : '_include/img/slider-images/Heavy Metal Derby Banner.jpg', title : '<div class="slide-content">Pixel XYZ</div>', thumb : '', url : ''},
+											{image : '_include/img/slider-images/Troidz Banner.jpg', title : '<div class="slide-content">Pixel XYZ</div>', thumb : '', url : ''},
+											{image : '_include/img/slider-images/Insanity Cubed_Banner.jpg', title : '<div class="slide-content">Pixel XYZ</div>', thumb : '', url : ''},
 
 									],
 									
