@@ -12,6 +12,23 @@ Version: 1.0
    Basic Styles
 ================================================== */
 
+
+
+
+
+<!-- Importing bitwise font -->
+
+@font-face {
+    font-family: bitWise;
+    src: url(fonts/bitwise.ttf);
+    font-weight: bold;
+	fo
+}
+
+
+
+
+
 html, body {
 	height: 100%;
 }
@@ -310,7 +327,7 @@ h3.spec {
 
 #home-slider .slider-text {
 	position: absolute;
-	left: 50%;
+	left: 25%;
 	top: 50%;
 	margin: -150px 0 0 -585px;
 	width: 1170px;
@@ -324,15 +341,25 @@ h3.spec {
 	line-height: 250px;
 	margin: 0;
 	text-align: center;
-	 text-shadow: 5px 5px 1px #000;	
+	text-shadow: 5px 5px 10px #000;
+	
+
+    -webkit-text-stroke-color: #000;
+    -webkit-text-stroke-width: 5px;
+ 
+    text-stroke-color: #d78965;
+    text-stroke-width: 6px;
+	text-transform:lowercase;
 }
 
 #home-slider .slide-content {
-	font-size: 200px;
+	font-size: 100px;
 	color: #2bc729;
 	letter-spacing: -3px;
 	text-transform: uppercase;	
-	font-family: 'Francois One', sans-serif;
+	font-family: bitWise;
+	font-weight: bold;
+	font-style: italic;
 }
 
 #home-slider .control-nav {
